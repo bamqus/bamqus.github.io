@@ -47,3 +47,43 @@ table {
     margin-left: 30%;
     margin-top: 10%;
 }
+
+
+
+
+.zad4 body {
+    background-color: rgb(rgb(226, 172, 172));
+}
+
+.zad4 h1 {
+    text-align: center;
+}
+.zad4 input, select  {
+    background-color: hsl(184, 100%, 80%);
+    font-size: 25px;
+    border-radius: 10px;
+    border-color: hsl(184, 100%, 80%);
+    
+}
+.zad4 form {
+    margin-top: 5%;
+    margin-left: 42%;
+}
+
+.zad4 button {
+    background-color: rgb(118, 214, 118);
+    margin: 0 10px;
+    border-radius: 3px;
+    border: 2px solid rgb(118, 214, 118);
+    font-size: 30px;
+    
+    
+}
+
+.zad4 button:hover {
+    background-color: rgb(90, 145, 90);
+}
+
+.zad4 #country {
+    font-size: 15px;
+}
