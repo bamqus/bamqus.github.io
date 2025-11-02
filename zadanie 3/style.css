@@ -1,0 +1,17 @@
+.test3 h1 {
+
+    text-align: center;
+}
+
+.test3 img {
+
+    width: 500px;
+    height: 500px;
+    border: 6px solid rgb(230, 30, 63);
+    margin: 37.795px
+   
+}
+
+.test3 img:hover {
+    transform: scale(1.05);
+}
