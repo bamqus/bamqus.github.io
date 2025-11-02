@@ -1,10 +1,10 @@
-body {
+.page2 body {
 
     background-color: beige;
 
 }
 
-h1 {
+.page2 h1 {
     text-align: center;
     font-size: 110px;
 
@@ -13,17 +13,17 @@ h1 {
 
 
 }
-p {
+.page2 p {
 
     text-align: center;
     gap: 20px
 }
-a {
+.page2 a {
     color: black;
     margin: 30px;
     font-size: 30px;
 }
-td, th {
+.page2 td, th {
 
     padding: 8px;
     text-align: left;
@@ -35,7 +35,7 @@ td, th {
 
 }
 
-th {
+.page2 th {
 
     background-color: black;
     color: white
@@ -43,7 +43,7 @@ th {
 
 }
 
-table {
+.page2 table {
     margin-left: 30%;
     margin-top: 10%;
 }
