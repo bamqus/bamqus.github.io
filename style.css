@@ -1,0 +1,68 @@
+.page2 body {
+
+    background-color: beige;
+
+}
+
+.page2 h1 {
+    text-align: center;
+    font-size: 110px;
+
+
+
+
+}
+.page2 p {
+
+    text-align: center;
+    gap: 20px
+}
+.page2 a {
+    color: black;
+    margin: 30px;
+    font-size: 30px;
+}
+.page2 td, th {
+
+    padding: 8px;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0)
+   
+    
+    
+
+
+}
+
+.page2 th {
+
+    background-color: black;
+    color: white
+
+
+}
+
+.page2 table {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.page1 h1 {
+  text-align: center;
+}
+.page1 table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+.page1 th, td {
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: center;
+}
+.page1 th {
+  background-color: #000;
+  color: #fff;
+}
+.page1 p{
+  text-align: center;
+}
