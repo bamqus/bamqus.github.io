@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.page4  {
+    background-color: beige;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page4 input, select {
+    background-color: rgb(42, 195, 255);
+    border-radius: 3px;
+    font-size: 25px;
+}
+
+.page4 #btn {
+    background-color: orange;
+    font-size: 24px;
+    margin: 7,8 
+    
+=======
+<<<<<<< HEAD
+>>>>>>> 7824f7fa9dcd4e4e41c8834a60a4077d62a21590
 .page2 h1 {
   text-align: center;
 }
@@ -35,4 +59,9 @@
 
 .page3 img:hover {
     transform: scale(1.05);
+<<<<<<< HEAD
+=======
+>>>>>>> zad3
+>>>>>>> 48d8978daaa19e207bd4a5c5b48de2f7d428c546
+>>>>>>> 7824f7fa9dcd4e4e41c8834a60a4077d62a21590
 }
