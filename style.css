@@ -1,10 +1,10 @@
-h1 {
+.page3 h1 {
 
     text-align: center;
     margin-bottom: 1cm;
 }
 
-img {
+.page3 img {
 
     width: 500px;
     height: 500px;
@@ -13,6 +13,6 @@ img {
    
 }
 
-img:hover {
+.page3 img:hover {
     transform: scale(1.05);
 }
