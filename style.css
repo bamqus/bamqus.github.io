@@ -1,0 +1,19 @@
+.page4  {
+    background-color: beige;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page4 input, select {
+    background-color: rgb(42, 195, 255);
+    border-radius: 3px;
+    font-size: 25px;
+}
+
+.page4 #btn {
+    background-color: orange;
+    font-size: 24px;
+    margin: 7,8 
+    
+}
