@@ -103,7 +103,7 @@
 .page1 #row {
   display: flex;
 }
-.page1 @media  (max-width: 700px) {
+ @media  (max-width: 700px) {
   .page1  #row {
     flex-direction: column;
   }
