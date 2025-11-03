@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologie>
+    <technologia typ="Inteligentne Domy">
+        <nazwa>Inteligentna lodówka</nazwa>
+        <zastosowanie>Analizowanie zawartości lodówki, informowanie czego brakuje, tworzenie listy zakupów</zastosowanie>
+        <rok>2000</rok>
+    </technologia>
+
+    <technologia typ="Inteligentne Miasto">
+        <nazwa>Technologia informacyjno-kominukacyjna</nazwa>
+        <zastosowanie>Zwiększenia interaktywności i wydajności infrastruktury miejskiej i jej komponentów składowych</zastosowanie>
+        <rok>2000</rok>
+    </technologia>
+
+    <technologia typ="Przemysłowy Internet Rzeczy">
+        <nazwa>Przemysł 4.0</nazwa>
+        <zastosowanie>Wykorzysrywanie sprzężeń zwrotnych pomiędzy automatyzacją, przetwarzaniem i wymianą danych oraz nowoczesnymi technikami wytwórczymi</zastosowanie>
+        <rok>2011</rok>
+    </technologia>
+    
+    <technologia typ="Medycyna">
+        <nazwa>Pulsyksomentr</nazwa>
+        <zastosowanie>Zdalne monitorowanie stanu zdrowia pacjentów</zastosowanie>
+        <rok>1998</rok>
+    </technologia>
+</technologie>

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Inteligentna Lodówka",
+        "year_of_invetion": 200,
+        "avaliable": true,
+        "usebility":["tworzenie listy zakupów"]
+    },
+    {
+        "name": "Przemysł 4.0",
+        "year_of_invetion": 2011,
+        "avaliable": true,
+        "usebility":["Wykorzysrywanie sprzężeń zwrotnych pomiędzy automatyzacją, przetwarzaniem i wymianą danych oraz nowoczesnymi technikami wytwórczymi"]
+    },
+    {
+        "name": "Pulsyksomentr",
+        "year_of_invetion": 1998,
+        "avaliable": true,
+        "usebility":["Zdalne monitorowanie stanu zdrowia pacjentów"]
+    }
+ 
+]
