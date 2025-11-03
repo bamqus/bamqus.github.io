@@ -1,0 +1,18 @@
+h1 {
+
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+img {
+
+    width: 500px;
+    height: 500px;
+    border: 6px solid rgb(5, 25, 211);
+    margin: 1cm
+   
+}
+
+img:hover {
+    transform: scale(1.05);
+}
